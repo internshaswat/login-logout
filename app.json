@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "blessed-soylent",
+    "slug": "snack-46d55517-60c8-43a2-9456-ed07e2d43d5a",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.sacsin.snack46d5551760c843a29456ed07e2d43d5a"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.sacsin.snack46d5551760c843a29456ed07e2d43d5a"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
